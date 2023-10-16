@@ -1,0 +1,11 @@
+form {
+    display: grid;
+    place-items: center;
+    height: 40vh;
+    border-radius: 5px;
+    width: 80vw;
+    margin: 0 auto;
+    border: 1px solid blue;
+    background-color: gray;
+    color: white
+}
